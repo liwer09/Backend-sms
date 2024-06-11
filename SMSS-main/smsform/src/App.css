@@ -1,0 +1,53 @@
+.General{
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+/* Navegador */
+
+.Opciones{
+  justify-content: space-around;
+  width: 100%;
+}
+/* Buscador */
+
+.Buscador{
+  width: 30%;
+}
+.Formulario{
+  margin-left: 10%;
+  margin-top:5%;
+}
+
+.FirstPageButton{
+  margin-left: 2%;
+  margin-top: 2%;
+}
+/* History Tables */
+.Tablas{
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+/* Formulario */
+
+.INC{
+  font-size:xx-large;
+}
+.SendSmsForm{
+  margin-top: -7%;
+  margin-right: 15%;
+  margin-left: 5%;
+}
+
+.Botones{
+  margin-top: 1%;
+  margin-left: 1%;
+  margin-bottom: 2%;
+}
+.SingleTablas{
+  width: 95%;
+  margin-right: 85%;
+  margin-left: -2%;
+}
